@@ -2,6 +2,8 @@
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
 
+![Group Website banner](./images/site_banner.png)
+
 # {{ site.title }}
 
 ## Description
